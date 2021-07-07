@@ -13,4 +13,7 @@ The point of this tool is to take in a password, encrypt it, and then to send on
   `python3 passwordchecker.py <insert a password to check here>`
   
   # Examples
+    
+  ![screenshot showing successful use](https://github.com/lewissndrs/pwned_cmd_line_tool/blob/main/Screenshots/IMG1.png)
   
+  ![screenshot showing successful use](https://github.com/lewissndrs/pwned_cmd_line_tool/blob/main/Screenshots/IMG2.png)
